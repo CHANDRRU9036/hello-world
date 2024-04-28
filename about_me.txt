@@ -5,3 +5,6 @@ Interns will have the chance to work on real-world projects, collaborating with 
 Throughout the internship, interns will receive mentorship and guidance from industry experts, enabling them to enhance their technical skills and deepen their understanding of ML principles and methodologies. They will also have the opportunity to participate in workshops, seminars, and networking events, gaining exposure to the latest trends and innovations in the field of ML and fintech.
 
 By the end of the internship program, interns will have acquired valuable practical experience, built a strong portfolio of projects, and developed a solid foundation in ML techniques relevant to the financial industry. This internship at Futurence promises to be a rewarding and transformative experience for individuals looking to launch a successful career in data science and machine learning.
+
+
+this is chandrru from aiml sec A 2nd year 
